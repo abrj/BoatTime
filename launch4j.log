@@ -1,0 +1,33 @@
+
+
+Version:	3.4
+CmdLine:	C:\Users\Anders\Dropbox (Personal)\BoatTime\boattime.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Anders\Dropbox (Personal)\BoatTime\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_60
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_60
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre8\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_05
+Check launcher:	C:\Program Files\Java\jre8\bin\javaw.exe (OK)
+Match:		1.8.0_05
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_60
+Ignore:		1.7.0_60
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_05
+Ignore:		1.8.0_05
+Runtime used:	1.8.0_05 (64-bit)
+Launcher:	C:\Program Files\Java\jre8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Anders\Dropbox (Personal)\BoatTime\boattime.exe"
+Args length:	63/32768 chars
+Exit code:	0
