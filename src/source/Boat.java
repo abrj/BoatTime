@@ -1,7 +1,8 @@
+package source;
 
-import java.text.DecimalFormat;
+
 import java.util.ArrayList;
-import java.util.concurrent.TimeUnit;
+
 
 public class Boat implements Comparable<Boat>{
 

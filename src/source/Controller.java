@@ -1,6 +1,9 @@
+package source;
+
 import java.util.Collections;
 import java.util.ArrayList;
 import java.util.Iterator;
+import source.Registrering;
 /*
  * TO DO: 
  *
